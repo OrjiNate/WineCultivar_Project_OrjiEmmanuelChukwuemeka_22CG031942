@@ -1,0 +1,11 @@
+1. Orji Emmanuel Chukwuemeka
+
+2. 22CG031942
+
+3. Algorithm Used: Random Forest Classifier
+
+4. Model Persistence: Joblib.
+
+5. https://winecultivarprojectorjiemmanuelchukwuemeka22cg031942-e5qguvezb.streamlit.app
+
+6. https://github.com/OrjiNate/WineCultivar_Project_OrjiEmmanuelChukwuemeka_22CG031942
